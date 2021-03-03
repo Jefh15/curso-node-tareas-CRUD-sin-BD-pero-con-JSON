@@ -14,6 +14,7 @@ Este es mi segundo programa en Node
 # Información del proyecto
 ```
 Temas del proyecto:
+
 El objetivo es que creemos una aplicación de consola interactiva, 
 con opciones que se puedan seleccionar con las teclas direccionales, 
 números y con la tecla espaciadora cuando hay multiples opciones.
